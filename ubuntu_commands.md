@@ -22,4 +22,4 @@ trial_session: 1 windows (created Thu Mar 26 22:42:08 2020) [142x31]
 - **htop (command-line task manager)**:
   - buffed up version of `top`
   - sort processes
-  - send signals to processes (e.g. SIGKILL, SIGTERM, etc.
+  - send signals to processes (e.g. SIGKILL, SIGTERM, etc.)
