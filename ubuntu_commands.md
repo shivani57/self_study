@@ -12,7 +12,7 @@
   - kill a session
   - split and resize panes, move among panes
 
-> your first session: :)
+> My first session: :)
 trial_session: 1 windows (created Thu Mar 26 22:42:08 2020) [142x31]
 
 - **watch (execute a program periodically)**:
