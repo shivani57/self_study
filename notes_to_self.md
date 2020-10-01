@@ -12,3 +12,4 @@
 - Always make a new folder for a new project
 - Follow the instructions as far as commands are concerned
 - Folder/File/Variable names must be meaningful
+- **Alt+F4** closes a window
