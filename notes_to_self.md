@@ -13,3 +13,9 @@
 - Follow the instructions as far as commands are concerned
 - Folder/File/Variable names must be meaningful
 - **Alt+F4** closes a window
+- **Alt+Tab** switches among multiple windows
+- Doing things word-by-word
+  - **Ctrl+RightArrow** to go to next word
+  - **Ctrl+Backspace** to delete whole word
+- **Shift** selects characters
+  - **Shift+RightArrow** selects next character
